@@ -1,3 +1,3 @@
-Hola, mi nombre es Nilton
-Tengo 20 años
+Hola, mi nombre es Pepito
+Tengo 21 años
 Esta es una prueba para git 
